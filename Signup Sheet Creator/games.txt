@@ -1,0 +1,97 @@
+1	10:00 AM	11:30 AM	Learn to Play DND AL	Brye	Friday
+2	10:00 AM	01:00 PM	DDAL 09-02	Daniel	Friday
+4	10:00 AM	01:00 PM	CCC-Kumoricon 03-01	Ma'at	Friday
+5	10:00 AM	01:00 PM	CCC-Kumoricon 03-02	Joshua	Friday
+6	10:00 AM	01:00 PM	CCC-Kumoricon 03-03	Tori	Friday
+	11:30 AM	01:00 PM	Learn to Play DND AL	Brye	Friday
+	01:30 PM	03:00 PM	Learn to Play DND AL	David Martin	Friday
+2	01:30 PM	04:30 PM	DDAL 09-03	Daniel	Friday
+3	01:30 PM	04:30 PM	DDAL 09-02	Jeph	Friday
+4	01:30 PM	04:30 PM	CCC-Kumoricon 03-01	Denise	Friday
+5	01:30 PM	04:30 PM	CCC-Kumoricon 03-02	Joshua	Friday
+6	01:30 PM	04:30 PM	CCC-Kumoricon 03-03	Jimmy	Friday
+	03:00 PM	04:30 PM	Learn to Play DND AL	David Martin	Friday
+	05:00 PM	06:30 PM	Learn to Play DND AL	Chris Bagg	Friday
+2	05:00 PM	08:00 PM	DDAL 09-04	Daniel	Friday
+3	05:00 PM	08:00 PM	DDAL 09-03	Jeph	Friday
+4	05:00 PM	08:00 PM	CCC-Kumoricon 03-01	Carl	Friday
+5	05:00 PM	08:00 PM	CCC-Kumoricon 03-02	Jimmy	Friday
+6	05:00 PM	08:00 PM	CCC-Kumoricon 03-03	David	Friday
+	06:30 PM	08:00 PM	Learn to Play DND AL	Chris Bagg	Friday
+	08:30 PM	10:00 PM	Learn to Play DND AL	Robert Z	Friday
+2	08:30 PM	11:30 PM	DDAL 09-02	Davena	Friday
+3	08:30 PM	11:30 PM	DDAL 09-04	Chris Bagg	Friday
+4	08:30 PM	11:30 PM	CCC-Kumoricon 03-01	Daniel	Friday
+5	08:30 PM	11:30 PM	CCC-Kumoricon 03-02	Joshua	Friday
+6	08:30 PM	11:30 PM	CCC-Kumoricon 03-03	David	Friday
+	10:00 PM	11:30 PM	Learn to Play DND AL	Robert Z	Friday
+10	01:00 PM	05:00 PM	Cthulhu Invictus	Drew Wood	Friday
+12	01:30 PM	04:30 PM	Best in Class Valor Demo	Austin Mackenzie	Friday
+8	04:30 PM	08:30 PM	DCC Robotics Destructive Education	Peter	Friday
+11	05:00 PM	08:00 PM	Shadow Run	Terra	Friday
+12	05:00 PM	08:00 PM	Cowboy Bebop	Phil	Friday
+13	05:00 PM	08:00 PM	Drop in Quick RPGs!	Issac	Friday
+13	08:30 PM	11:30 PM	Drop in Quick RPGs!	Issac	Friday
+9	08:30 PM	12:30 AM	DCC Sailors on the Starless Sea	Alex L.	Friday
+10	08:30 PM	12:30 AM	Camp Sunny	Denise	Friday
+1	10:00 AM	11:30 AM	Learn to Play DND AL	Jimmy	Saturday
+2	10:00 AM	01:00 PM	DDAL 09-03	Bill	Saturday
+3	10:00 AM	01:00 PM	DDAL 09-02	Alan	Saturday
+4	10:00 AM	01:00 PM	CCC-Kumoricon 03-01	Joshua	Saturday
+5	10:00 AM	01:00 PM	CCC-Kumoricon 03-02	Will	Saturday
+6	10:00 AM	01:00 PM	CCC-Kumoricon 03-03	Davena	Saturday
+1	11:30 AM	01:00 PM	Learn to Play DND AL	Jimmy	Saturday
+2	01:00 PM	06:30 PM	DND EPIC	Jay	Saturday
+3	01:00 PM	06:30 PM	DND EPIC	Tori	Saturday
+4	01:00 PM	06:30 PM	DND EPIC	Robert Z	Saturday
+5	01:00 PM	06:30 PM	DND EPIC	Gary	Saturday
+6	01:00 PM	06:30 PM	DND EPIC	Bill	Saturday
+	01:00 PM	06:30 PM	DND EPIC	Davena	Saturday
+	01:00 PM	06:30 PM	DND EPIC	Alan	Saturday
+7	01:00 PM	06:30 PM	DND EPIC	David	Saturday
+6	01:00 PM	06:30 PM	DND EPIC	Drew	Saturday
+1	06:30 PM	08:00 PM	Learn to Play DND AL	Alan	Saturday
+2	06:30 PM	09:30 PM	DDAL 09-04	Chris Bagg	Saturday
+3	06:30 PM	09:30 PM	DDAL 09-03	Robert Z	Saturday
+4	06:30 PM	09:30 PM	CCC-Kumoricon 03-01	Ma'at	Saturday
+5	06:30 PM	09:30 PM	CCC-Kumoricon 03-02	Drew	Saturday
+6	06:30 PM	09:30 PM	CCC-Kumoricon 03-03	Chris Chase	Saturday
+	08:00 PM	09:30 PM	Learn to Play DND AL	Alan	Saturday
+	09:30 PM	10:30 PM	Learn to Play DND AL	Robert Z	Saturday
+2	09:30 PM	12:30 AM	DDAL 09-02	Jeph	Saturday
+3	09:30 PM	12:30 AM	DDAL 09-04	Bill	Saturday
+4	09:30 PM	12:30 AM	CCC-Kumoricon 03-01	Chris Bagg	Saturday
+5	09:30 PM	12:30 AM	CCC-Kumoricon 03-02	Carl	Saturday
+6	09:30 PM	12:30 AM	CCC-Kumoricon 03-03	Pol	Saturday
+	11:00 PM	12:00 AM	Learn to Play DND AL	Robert Z	Saturday
+9	10:00 AM	01:00 PM	Isle of Bake-Kujira		Saturday
+11	10:00 AM	01:00 PM	Shadow Run	Terra	Saturday
+12	10:00 AM	01:00 PM	Best in Class Valor Demo	Austin Mackenzie	Saturday
+13	10:00 AM	01:00 PM	Drop in Quick RPGs!	Issac	Saturday
+9	06:30 PM	09:30 PM	Actual Cannibal Shia LaBeouf: The RPG	Skyler	Saturday
+10	06:30 PM	09:30 PM	Cutie Mark Crusaders	Peter	Saturday
+13	06:30 PM	09:30 PM	Drop in Quick RPGs!	Issac	Saturday
+9	09:30 PM	12:30 AM	Edge of Empire	Phil	Saturday
+10	09:30 PM	12:30 AM	Mizuumi no bakemono	Denise	Saturday
+12	09:30 PM	12:30 AM	Big Eyes Small Eyes Demo	Will	Saturday
+1	10:00 AM	11:30 AM	Learn to Play DND AL	Brye	Sunday
+2	10:00 AM	01:00 PM	DDAL 09-03	Carl	Sunday
+3	10:00 AM	01:00 PM	DDAL 09-02	Chris chase	Sunday
+4	10:00 AM	01:00 PM	CCC-Kumoricon 03-01	Tori	Sunday
+5	10:00 AM	01:00 PM	CCC-Kumoricon 03-02	Gary	Sunday
+6	10:00 AM	01:00 PM	CCC-Kumoricon 03-03	Jay	Sunday
+	11:30 AM	01:00 PM	Learn to Play DND AL	Brye	Sunday
+	01:30 PM	03:00 PM	Learn to Play DND AL	Brye	Sunday
+2	01:30 PM	04:30 PM	DDAL 09-04	Carl	Sunday
+3	01:30 PM	04:30 PM	DDAL 09-03	Gary	Sunday
+4	01:30 PM	04:30 PM	CCC-Kumoricon 03-01	Ma'at	Sunday
+5	01:30 PM	04:30 PM	CCC-Kumoricon 03-02	Jay	Sunday
+6	01:30 PM	04:30 PM	CCC-Kumoricon 03-03	Jeph	Sunday
+	03:00 PM	04:30 PM	Learn to Play DND AL	Brye	Sunday
+10	10:00 AM	01:00 PM	At the Mountain Village	Denise	Sunday
+11	10:00 AM	01:00 PM	Shadow Run	Terra	Sunday
+12	10:00 AM	01:00 PM	Cowboy Bebop	Phil	Sunday
+9	01:30 PM	04:30 PM	Cutie Mark Crusadors 	Peter	Sunday
+10	01:30 PM	04:30 PM	Edge of Empire	Phil	Sunday
+11	01:30 PM	04:30 PM	Shadow Run	Terra	Sunday
+12	01:30 PM	04:30 PM	Big Eyes Small Eyes Demo	Will	Sunday
